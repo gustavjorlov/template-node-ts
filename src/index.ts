@@ -1,7 +1,11 @@
-console.log('Yo');
-
-const run = (args: Array<string>): string => {
-  return 'ho';
+type Template = {
+  name: string;
+  version: string;
 };
 
-run(process.argv);
+const template: Template = {
+  name: 'node-js',
+  version: '1.0.0',
+};
+
+console.log(template);

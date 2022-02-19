@@ -1,8 +1,8 @@
 {
-  "name": "kits-stocks-2",
+  "name": "template-node-ts",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "start": "tsc && node dist/index.js"
   },
