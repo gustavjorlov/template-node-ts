@@ -2,6 +2,10 @@
 
 Sets up node for use with TypeScript, ESLint and Prettier
 
+## Todo
+
+* Add testing
+
 ## Setup
 
 * Node: 14.18
