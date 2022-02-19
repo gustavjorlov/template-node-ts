@@ -1,5 +1,7 @@
 # Template: Node TypeScript
 
+Sets up node for use with TypeScript, ESLint and Prettier
+
 ## Setup
 
 * Node: 14.18
